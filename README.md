@@ -51,7 +51,7 @@ The comma delimited input file quotedata.dat <sup>[1](#datasource)</sup> shown b
 
 Each row consists of the data pertaining to one strike. The first 7 columns refer to the call option at that strike and the next 7 columns refer to the put option at that strike.
 The first of the 7 columns describes that maturity and strike. Here the
-maturity is always December 21, 2018 (as well, please note 'today' is Dec 28 2017, as specified in the input file). <sup>[2](#optioncode)</sup>
+maturity is always December 21, 2018 (as well, please note 'today' is Dec 28 2017, as specified in the input file). <sup>[2](#optmnthcode)</sup>
 
 ### Step 1
 Calculate a midmarket implied volatility for each strike.
