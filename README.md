@@ -36,7 +36,7 @@ You will write a program that takes, as an input, a discrete set of option price
 
 You may use the programming language of your choice as well as any
 'non-financial' packages. That is, you are free to use any third party
-optimization, statistics or linear algebra libraries, but you should implement your own functions such as Black Scholes or Forward calculations. Feel free to email (matthew.chivers@rbccm.com) with any questions.
+optimization, statistics or linear algebra libraries, but you should implement your own functions such as Black Scholes or Forward calculations. Feel free to email (matthew.chivers@rbccm.com) with any questions. Additionally may use any resources you wish (books, websites), but please only seek resources to help understand concepts. For example, you may seek out material describing put/call parity, but don’t search for ‘how to calculate implied rate and dividend yield from chain of option prices'.
 
 The comma delimited input file quotedata.dat <sup>[1](#datasource)</sup> shown below requires some explanation
 
